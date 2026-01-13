@@ -1,0 +1,6 @@
+id_T;nom;courriel;num_tel;adr;id_Organisation;nom_O;nom_R;nom_G;nom_T;nom_D
+1;Pierre Dubois;p.dubois@mail.fr;601234567;15 rue de la Paix, Paris;1;Entreprise;Novice;Affilié;Philanthrope;NULL
+2;Marie Martin;m.martin@mail.fr;602345678;28 avenue Foch, Lyon;2;Organisme_De_Formation;Novice;Dame;NULL;Grand_Chancelier
+3;Jean Lefebvre;j.lefebvre@mail.fr;603456789;42 boulevard Haussmann, Paris;3;Entreprise;Compagnon;Grand_Chevalier;NULL;Maître
+4;Sophie Bernard;s.bernard@mail.fr;604567890;7 place Bellecour, Lyon;4;Entreprise;Compagnon;Commandeur;Protecteur;NULL
+5;Luc Petit;l.petit@mail.fr;605678901;33 rue Victor Hugo, Marseille;5;Entreprise;Novice;Grand'Croix;Honorable;NULL

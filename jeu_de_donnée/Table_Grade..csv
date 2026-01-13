@@ -1,0 +1,10 @@
+nom_G;nom_G_1
+Affilié;Sympathisant
+Sympathisant;Adhérent
+Adhérent;Chevalier
+Chevalier;Dame
+Dame;Grand_Chevalier
+Grand_Chevalier;Haute_Dame
+Haute_Dame;Commandeur
+Commandeur;Grand'Croix
+Grand'Croix;NULL

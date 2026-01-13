@@ -1,0 +1,11 @@
+id_Composant;nom_ingredient;type_ingredient;légume;alergène
+1;Tomate;Légume;TRUE;NULL
+2;Laitue;Légume;TRUE;NULL
+3;Oignon;Légume;TRUE;NULL
+4;Fromage;Produit laitier;FALSE;Lactose
+5;Jambon;Viande;FALSE;NULL
+6;Oeuf;Protéine;FALSE;Oeuf
+7;Carotte;Légume;TRUE;NULL
+8;Poivron;Légume;TRUE;NULL
+9;Poulet;Viande;FALSE;NULL
+10;Pomme de terre;Féculent;TRUE;NULL
